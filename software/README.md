@@ -1362,7 +1362,7 @@ _Note: daily releases of this software list are listed, including CSV and JSON f
 | Kofax | Robotic Process Automation (RPA) | 11.1 | Workaround | | [source](https://knowledge.kofax.com/Robotic_Process_Automation/Troubleshooting/Kofax_RPA_CVE-2021-44228_log4j_Security_Exploit_Information) |
 | Kofax | Robotic Process Automation (RPA) | 11.2 | Workaround | | [source](https://knowledge.kofax.com/Robotic_Process_Automation/Troubleshooting/Kofax_RPA_CVE-2021-44228_log4j_Security_Exploit_Information) |
 | Kofax | Robot File System (RFS) | >=10.7 | Workaround | | [source](https://knowledge.kofax.com/Robotic_Process_Automation/Troubleshooting/Kofax_RPA_CVE-2021-44228_log4j_Security_Exploit_Information) |
-| Kotuur | Kotuur |  All | Not Vuln | | [source](https://support.kotuur.com/support/announcements/17000026122) |
+| Kodision | Kotuur |  All | Not Vuln | | [source](https://support.kotuur.com/support/announcements/17000026122) |
 ### L
 
 | Supplier        | Product         | Version (see Status) | Status          | Notes           | Links |
